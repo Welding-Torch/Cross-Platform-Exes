@@ -23,3 +23,9 @@ binary using Cosmopolitan Libc's `apelink` program.
 The  [`Releases` page](https://github.com/ahgamut/superconfigure/releases)
 should have the most recent builds of executables in this repo, built via Github
 Actions.  
+
+# How do I run it?
+
+On Windows, rename the binary file to `.exe`, then type the name of the exe in Command Prompt.
+On Linux, run the file with `./filename` and run it.
+On Mac, run the file with `./filename` and run it.
