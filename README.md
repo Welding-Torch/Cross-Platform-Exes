@@ -38,6 +38,7 @@ Actions.
 
 If you'd like to add your own software build scripts, submit a PR! Read up
 `config/README.md` how all of this works.
+<<<<<<< HEAD
 
 > [!TIP]
 > If you're on Windows, after downloading the zip files you should rename the executables inside to end with `.exe` in order to run them.
@@ -128,3 +129,5 @@ etc. to the respective binaries.
 [datasette]: https://github.com/simonw/datasette
 [portcosmo]: https://github.com/ahgamut/gcc/tree/portcosmo-11.2
 [cpy311]: https://github.com/ahgamut/cpython/tree/portcosmo
+=======
+>>>>>>> 821c8f1 (Update README.md)
